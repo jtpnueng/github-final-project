@@ -24,4 +24,4 @@ print ("hello word")
 ```
 
 ## get web
-[jtpnueng] (https://m.youtube.com)
+[jtpnueng](https://m.youtube.com)
